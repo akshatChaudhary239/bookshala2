@@ -1,0 +1,104 @@
+[
+    { 
+        "id":1,
+        "name":"Adventure books",
+        "price":0,
+        "category":"free",
+        "image":"https://miro.medium.com/v2/resize:fit:5120/1*42ebJizcUtZBNIZPmmMZ5Q.jpeg",
+        "read":"https://www.goodreads.com/genres/adventure"
+        
+    },
+    
+    {
+        "id":2,
+        "name":"story books",
+        "price":0,
+        "category":"free",
+        "image":"https://t4.ftcdn.net/jpg/06/01/60/89/360_F_601608910_t4zmxmDunYnATnwzU721XFwKu6XSvT1f.jpg",
+        "read":"https://monkeypen.com/pages/free-childrens-books"
+    
+        
+    },
+
+    {
+        "id":3,
+        "name":"comics",
+        "price":0,
+        "category":"free",
+        "image":"https://www.eurokidsindia.com/blog/wp-content/uploads/2023/08/funny-books.jpg",
+        "read":"https://www.comicconindia.com/"
+    },
+
+    {
+        "id":4,
+        "name":"Manga",
+        "price":0,
+        "category":"free",
+        "image":"https://as2.ftcdn.net/v2/jpg/05/03/50/13/1000_F_503501306_Alil6zzjqZZqZIYascHiejzFkOtXN36l.jpg"
+    },
+
+    {
+        "id":5,
+        "name":"Cartoon books",
+        "price":0,
+        "category":"free",
+        "image":"https://wallpapers.com/images/featured/cartoon-pictures-q3hxkk0gmw6vnivj.jpg"
+    },
+
+    {
+        "id":6,
+        "name":"psychology books",
+        "price":0,
+        "category":"free",
+        "image":"https://www.timeshighereducation.com/student/sites/default/files/styles/default/public/istock-521577939.jpg?itok=z9ToPzCf"
+    },
+
+    {
+        "id":7,
+        "name":"Social books",
+        "price":0,
+        "category":"free",
+        "image":"https://www.wscubetech.com/blog/wp-content/uploads/2024/04/social-media-1024x683.webp"
+    },
+
+    {
+        "id":8,
+        "name":" Romantic books",
+        "price":0,
+        "category":"free",
+        "image":"https://ebooknet.org/wp-content/uploads/2023/06/12.jpg"
+    },
+
+    {
+        "id":9,
+        "name":"Sports books",
+        "price":0,
+        "category":"free",
+        "image":"https://media.istockphoto.com/id/466206330/photo/open-book-with-soccer-field-as-the-pages.jpg?s=612x612&w=0&k=20&c=EwC42GlVeyAReHxxBy3gchsO1fLpDp3ZsLx6IE76iL8="
+    },
+
+    {
+        "id":10,
+        "name":"Medical books",
+        "price":0,
+        "category":"free",
+        "image":"https://i0.wp.com/thelowkeymedic.com/wp-content/uploads/2021/07/tlm-best-textbooks-for-medical-school.jpg?fit=1200%2C800&ssl=1"
+    },
+
+    {
+        "id":11,
+        "name":"Computer books",
+        "price":0,
+        "category":"free",
+        "image":"https://www.shutterstock.com/image-vector/computer-book-knowledge-base-concept-600nw-1161966886.jpg"
+    },
+
+    {
+        "id":11,
+        "name":"Toy books",
+        "price":0,
+        "category":"free",
+        "image":"https://media.newyorker.com/photos/5d0aa95994fd588546285f17/master/pass/190701_r34553.jpg"
+    }
+]
+
