@@ -27,9 +27,9 @@ const Navbar = () => {
       initial={{ y: -80, opacity: 0 }}
       animate={{ y: 0, opacity: 1 }}
       transition={{ duration: 0.7, ease: "easeOut" }}
-      className={`fixed w-full top-0 left-0 z-50 ${
-        isScrolled ? "backdrop-blur-md bg-white/60 shadow-md" : "bg-transparent"
-      } transition-all duration-300`}
+      className={`fixed w-full text-black  top-0 left-0 z-50 ${
+        isScrolled ? "backdrop-blur-md bg-black shadow-md" : "bg-transparent"
+      } transition-all duration-300 text-black`}
     >
       <div className="max-w-screen-2xl container mx-auto px-4 md:px-20 py-3 flex justify-between items-center">
         {/* Logo */}
@@ -45,7 +45,7 @@ const Navbar = () => {
           initial={{ opacity: 0, x: 20 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ delay: 0.2 }}
-          className="hidden lg:flex space-x-8 font-medium text-gray-800"
+          className="hidden lg:flex space-x-8 font-medium text-gray-500"
         >
           {navItems.map((item, i) => (
             <motion.li
